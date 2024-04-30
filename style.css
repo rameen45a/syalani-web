@@ -1,0 +1,112 @@
+.maincontainer{
+    display: flex;
+}
+.group{
+    margin-left: 20px;
+}
+.color{
+    background-color: aliceblue;
+    border-radius: 10px!important;
+}
+.menu{
+    background-color: aliceblue!important;
+    margin-left: 20px;
+    border: 1px solid white!important;
+    color:  black!important;
+    margin-top: 20px;
+    border-radius: 10px!important;
+}
+.button1{
+    background-color: blue!important;
+    padding: 0px 15px 0px 10px;
+    
+}
+.button2{
+    background-color: rgb(87, 158, 59)!important;
+    margin-left: 20px;
+    border-color: black!important;
+    padding: 0px 15px 0px 10px;
+}
+.btn1{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.image{
+    height: 500px;
+    position: absolute;
+    top: 130px;
+    left: 700px;
+}
+.content{
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    line-height: 30px;
+}
+.had{
+    font-size: 40px;
+    line-height: 50px;
+}
+span{
+    color: green;
+}
+.span{
+    color: blue;
+    font-weight: bold;
+}
+.cont{
+    font-weight: bold;
+    line-height: 35px;
+}
+.btn3{
+    position: absolute;
+    top: 250px;
+    left: 118px;
+}
+.button3{
+    padding: 6px 34px 6px 40px;
+    font-weight: bold;
+}
+.butts{
+    position: absolute;
+    top: 690px;
+    left: 300px;
+    display: flex;
+    background-color: rgb(158, 174, 188);
+    width: 930px;
+    height: 115px;
+}
+.bts{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.else{
+   padding: 10px 140px 10px 120px;
+   background-color: gray;
+   font-weight: bold;
+   color: aliceblue;
+   font-size: large;
+
+}
+.else1{
+    background-color: gray;
+    padding: 10px 10px;
+    font-weight: bold;
+    color: aliceblue;
+ 
+ }
+ .else2{
+    padding: 10px 10px;
+    background-color: gray;
+    font-weight: bold;
+    color: aliceblue;
+ 
+ }
+ .else3{
+    padding: 10px 10px;
+    background-color: gray;
+    font-weight: bold;
+    color: aliceblue;
+ 
+ }
